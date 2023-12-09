@@ -1,2 +1,2 @@
-# weber_davis_wind_solution
+# Weber&Davis Wind Solution
 Weber&amp;Davis wind solution
