@@ -3,4 +3,4 @@ References:
 https://ui.adsabs.harvard.edu/abs/1967ApJ...148..217W/abstract  
 https://ui.adsabs.harvard.edu/abs/1985A%26A...152..121S/abstract  
 https://ui.adsabs.harvard.edu/abs/1996astro.ph..2022S/abstract   
-The solution code is based on https://iopscience.iop.org/article/10.3847/0004-637X/818/2/152 by Prof.Xue-Ning Bai at Tsinghua University. It maily utilizes the Newton-Raphson Iteration and Bisection to find the correct parameters, hence the slow/fast Alfven point with proper initial guesses.
+The solution code is based on https://iopscience.iop.org/article/10.3847/0004-637X/818/2/152 by Prof.Xue-Ning Bai at Tsinghua University. It maily utilizes the Newton-Raphson Iteration, quasi-Newton and Bisection to find the correct parameters, hence the slow/fast Alfven point with proper initial guesses.
